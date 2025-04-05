@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@awesome-cordova-plugins/sqlite": "^6.16.0",
+    "bootstrap-icons": "^1.11.3"
+  }
+}
